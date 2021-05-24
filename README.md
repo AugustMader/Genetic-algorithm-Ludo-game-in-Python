@@ -13,7 +13,7 @@ This a implementation of a Genetic algorithm to play Ludo with the ludopy librar
     · Standing on globe
     · Possible beat opponent next round
     · None of the above - Move piece
-The algorithm is developed with inspiration of the paper "Man - Machine Interface" doi=10.5121/ijaia.2012.3111
+The algorithm is developed with inspiration of the paper "Man - Machine Interface" doi = https://10.5121/ijaia.2012.3111
 
 # LUDOpy
 
