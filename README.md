@@ -1,3 +1,21 @@
+# Genetic algorithm in Ludo
+
+This a implementation of a Genetic algorithm to play Ludo with the ludopy library. The implemented state space is the following
+    · Beat opponent
+    · Enter goal straight
+    · Hit star
+    · Hit globe
+    · Go out from home
+    · Get into goal
+    · Escape possible beat
+    · Hit yourself home 
+    · Dangerous position
+    · Standing on globe
+    · Possible beat opponent next round
+    · None of the above - Move piece
+
+The algorithm is developed with inspiration of the paper "Man - Machine Interface" DOI = http://dx.doi.org/10.5121/ijaia.2012.3111
+
 # LUDOpy
 
 This is a implementation of the LUDO game in python for use in AI or whatever you want.  
